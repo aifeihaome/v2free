@@ -71,7 +71,7 @@ jobs:
         done
     - name: Git 提交 Commit
       run: |
-        git config --global user.email 994302767@qq.com
+        git config --global user.email 370095624@qq.com
         git config --global user.name action
         git add .
         git commit -m ":star: 签到成功" -a
